@@ -7,3 +7,4 @@ Pillow
 transformers
 torch
 openai
+pymupdf
