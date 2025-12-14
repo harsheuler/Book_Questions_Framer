@@ -1,10 +1,7 @@
 streamlit
 requests
-numpy
-plotly
-pandas
-Pillow
-transformers
-torch
-openai
 pymupdf
+openai
+ftfy
+pandas
+fpdf
